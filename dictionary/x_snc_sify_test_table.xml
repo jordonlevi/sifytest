@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Sify Test" max_length="40" name="x_snc_sify_test_table" type="collection">
+        <element label="String1" max_length="32" name="u_string1" type="string"/>
+        <element label="String2" max_length="32" name="u_string2" type="string"/>
+    </element>
+</database>
