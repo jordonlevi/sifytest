@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_snc_sify_test_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_string3" table="x_snc_sify_test_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>u_string3</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_string3</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>4000</max_length>
         <name>x_snc_sify_test_table</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
-        <sys_created_on>2019-09-18 08:30:18</sys_created_on>
-        <sys_id>da5091aedbc004109d2bac18489619e9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_sify_test_table</sys_name>
+        <sys_created_on>2019-09-25 11:13:21</sys_created_on>
+        <sys_id>7b005d6edbc004109d2bac18489619a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>u_string3</sys_name>
         <sys_package display_value="Sify_Test" source="x_snc_sify_test">4ba7e018db0848109d2bac1848961938</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sify_Test">4ba7e018db0848109d2bac1848961938</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_sify_test_table_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-09-25 11:14:20</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_sify_test_table_u_string3</sys_update_name>
+        <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+        <sys_updated_on>2019-09-25 11:18:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
