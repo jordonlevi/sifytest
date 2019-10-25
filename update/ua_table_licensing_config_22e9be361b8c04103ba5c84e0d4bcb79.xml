@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jordon.makepeace@snc</sys_created_by>
         <sys_created_on>2019-09-18 08:30:19</sys_created_on>
-        <sys_id>a25091aedbc004109d2bac18489619f6</sys_id>
+        <sys_id>22e9be361b8c04103ba5c84e0d4bcb79</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_sify_test_table</sys_name>
         <sys_package display_value="Sify_Test" source="x_snc_sify_test">4ba7e018db0848109d2bac1848961938</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sify_Test">4ba7e018db0848109d2bac1848961938</sys_scope>
-        <sys_update_name>ua_table_licensing_config_a25091aedbc004109d2bac18489619f6</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_22e9be361b8c04103ba5c84e0d4bcb79</sys_update_name>
         <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
         <sys_updated_on>2019-09-18 08:30:19</sys_updated_on>
     </ua_table_licensing_config>
